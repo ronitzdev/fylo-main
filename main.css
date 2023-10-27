@@ -384,3 +384,41 @@ body {
         margin-left: 0;
     }
 }
+
+@media (max-width: 768px) {
+    .hero__container {
+        padding: 0 40px;
+    }
+
+    .hero__nav {
+        justify-content: center;
+    }
+
+    .text__title {
+        font-size: 2.5rem;
+    }
+
+    .form__input {
+        width: 100%;
+    }
+
+    .form__cta {
+        width: 100%;
+    }
+
+    .productive__container {
+        padding: 100px 40px;
+    }
+
+    .text__title--size {
+        font-size: 1.8rem;
+    }
+
+    .text__paragraph {
+        text-align: left;
+    }
+
+    .access__container {
+        padding: 70% 40px;
+    }
+}
