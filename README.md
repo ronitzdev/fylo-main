@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/ronitzdev/fylo-main)
-- Live Site URL: [Add live site URL here](https://fylo-main-ronitzdev.netlify.app/)
+- Solution URL: [click here](https://github.com/ronitzdev/fylo-main)
+- Live Site URL: [click here](https://fylo-main-ronitzdev.netlify.app/)
 
 ## My process
 
