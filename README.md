@@ -47,6 +47,8 @@ Users should be able to:
 
 ### What I learned
 
+I have learned how to size buttons properly and improve the structure to adapt to different devices.
+
 ### Continued development
 
 I will focus on improving accessibility in the HTML structure and versatility in naming classes to style my website. Learn more about the adaptability of my website from the mobile to desktop workflow.
