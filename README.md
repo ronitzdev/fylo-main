@@ -60,4 +60,4 @@ I will focus on improving accessibility in the HTML structure and versatility in
 ## Author
 
 - Website GitHub - [ronitzdev](https://github.com/ronitzdev)
-- Frontend Mentor - [@ronitzdev](https://www.frontendmentor.io/profile/RoniGerman)
+- Frontend Mentor - [@ronitzdev](https://github.com/ronitzdev)
